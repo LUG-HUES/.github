@@ -1,9 +1,11 @@
 <div style="text-align:center">
   <img src="https://github.com/LUG-HPI/.github/blob/main/profile/img/LUG_Logo.png" alt="HPI_LUG Logo" width="auto" height="200px" style="border-radius:50%">
 </div>
-<h1 style="text-align:center;font-size:30px">Linux_Users_Group</h1>
 
-<p style="text-align:center">欢迎来到LUG，一个由热爱开源、Linux和网络安全的大学生创立的社团。</p>
+
+# Linux_Users_Group
+
+欢迎来到LUG，一个由热爱开源、Linux和网络安全的大学生创立的社团。
 
 ## 关于我们
 
