@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img src="https://raw.githubusercontent.com/LUG-HPI/.github/blob/main/profile/img/LUG_Logo.png" alt="HPI_LUG Logo" width="auto" height="200px" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/LUG-HPI/.github/main/profile/img/LUG_Logo.png" alt="HPI_LUG Logo" width="auto" height="200px" style="border-radius:50%">
 </div>
 
 # Linux_Users_Group
