@@ -17,6 +17,6 @@ LUG 是由一群热衷于开源、Linux和网络安全的大学生成立的社�
 
 - ✉️ 邮箱：[lsqzzx@gmail.com](mailto:lsqzzx@gmail.com)
 - ✈️ Telegram群组： [t.me/LUG技术交流群](https://t.me/+nToGjSsvrts4ZDJl)
-- 🐧 QQ群组：[912204277]()  [](TODO加群链接)
+- 🐧 QQ群组：[912204277](https://qm.qq.com/cgi-bin/qm/qr?k=WhD9sOhZuvfGh4vVoflckT4lLH5-oatb&jump_from=webapi&authKey=JuXb6JQDmhAN4qf+CbZl8okLlAIdPTk1lCslsQITOVGzdkOyNf7vCHG99caN8W44)
 
 我们期待你的加入和贡献！🎉
